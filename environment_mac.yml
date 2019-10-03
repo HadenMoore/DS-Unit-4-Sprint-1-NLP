@@ -135,6 +135,7 @@ dependencies:
     - pyldavis==2.1.2
     - pytest==5.0.1
     - squarify==0.4.3
+    - spacy==2.0.16
     - tensorboard==1.14.0
     - tensorflow-estimator==1.14.0
     - zipp==0.5.2
